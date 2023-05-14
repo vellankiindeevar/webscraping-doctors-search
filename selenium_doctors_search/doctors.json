@@ -1,0 +1,3338 @@
+[
+    {
+        "name": "Cecile Kokozian, NP",
+        "gender": "Female",
+        "speciality": "Adult Nurse Practitioner",
+        "address": "3630 E Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-8526"
+    },
+    {
+        "name": "Adegbenga Adetola, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3737 MLK, Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-2838"
+    },
+    {
+        "name": "Adegbenga Adetola, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3737 MLK, Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-2838"
+    },
+    {
+        "name": "Adegbenga Adetola, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3737 MLK, Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-2838"
+    },
+    {
+        "name": "Mohammad Adie, MD",
+        "gender": "Male",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "505 S. Main Street.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 512-3939"
+    },
+    {
+        "name": "Iman Afrooz, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "Mehrdad Aghai, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "1141 W. Redondo Beach Blvd..Gardena, CA 90247, USA",
+        "city": "Gardena, CA",
+        "phone_no": "(310) 767-7814"
+    },
+    {
+        "name": "Faisal Ahmed, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "8540 S. Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 670-9119"
+    },
+    {
+        "name": "Afshin Ahoubim, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Farzad Alemi, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy. .Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-5010"
+    },
+    {
+        "name": "Mohsen Aljayeh, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "8510 Balboa Blvd.Northridge, CA 91325, USA",
+        "city": "Northridge, CA",
+        "phone_no": "(818) 552-6230"
+    },
+    {
+        "name": "Nidal Alkafarna, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Pkwy, Suite B160-613.Rancho Santa Margarita, CA 92888, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Ayman Alladawi, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8077 Florence Ave..Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 904-6031"
+    },
+    {
+        "name": "Gwen Allen, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "1141 W Redondo Beach Blvd.Gardena, CA 90247, USA",
+        "city": "Gardena, CA",
+        "phone_no": "(310) 329-9492"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Maxine Anderson, MD",
+        "gender": "Female",
+        "speciality": "General Surgery",
+        "address": "3621 Martin Luther King Jr Blvd.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-4445"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Elizabeth Arena, MD",
+        "gender": "Female",
+        "speciality": "General Surgical Oncology",
+        "address": "8635 W. 3rd St..Los Angeles, CA 90048, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 289-1518"
+    },
+    {
+        "name": "Joel Aronowitz, MD",
+        "gender": "Male",
+        "speciality": "Plastic Surgery",
+        "address": "8635 W. Third Street.Los Angeles, CA 90048, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 659-0705"
+    },
+    {
+        "name": "Sumit Arora, MD",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Avo Artinyan, MD",
+        "gender": "Male",
+        "speciality": "General Surgical Oncology",
+        "address": "1505 Wilson Terrace.Glendale, CA 91206, USA",
+        "city": "Glendale, CA",
+        "phone_no": "(818) 606-2200"
+    },
+    {
+        "name": "Robby Ayoub, MD",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "8201 Newman Avenue.Huntington Beach, CA 92647, USA",
+        "city": "Huntington Beach, CA",
+        "phone_no": "(714) 847-6900"
+    },
+    {
+        "name": "Elias Ayoub, MD",
+        "gender": "Male",
+        "speciality": "Otolaryngology",
+        "address": "11480 Brookshire Ave Ste 313.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 862-5160"
+    },
+    {
+        "name": "Eleanor Azurin, MD",
+        "gender": "Female",
+        "speciality": "Family Medicine",
+        "address": "3045 E.FLORENCE AVENUE.HUNTINGTON PARK, CA 90255, USA",
+        "city": "HUNTINGTON PARK, CA",
+        "phone_no": "(323) 587-7771"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Alex Balekian, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 S. Sepulveda Blvd..Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Fayez Bany-Mohammed, MD",
+        "gender": "Male",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "101 The City Dr. So.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 456-6933"
+    },
+    {
+        "name": "Jack Barbour, MD",
+        "gender": "Male",
+        "speciality": "Psychiatry",
+        "address": "2610 Industry Way.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-8004"
+    },
+    {
+        "name": "John Barkodar, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "2809 Tweedy Blvd..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(323) 567-9909"
+    },
+    {
+        "name": "Kelsey Barth, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Ronald Belczyk, DPM",
+        "gender": "Male",
+        "speciality": "Podiatric Surgery",
+        "address": "903 W 7th St.Oxnard, CA 93030, USA",
+        "city": "Oxnard, CA",
+        "phone_no": "(805) 263-4090"
+    },
+    {
+        "name": "Antonio Beltran, MD",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "3605 Long Beach Boulevard.Long Beach, CA 90807, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 424-8000"
+    },
+    {
+        "name": "Aaron Beltran , NP",
+        "gender": "Male",
+        "speciality": "Nurse Practitioner",
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Dorothea Berry, DDS",
+        "gender": "Female",
+        "speciality": "Oral and Maxillofacial Surgery",
+        "address": "2690 Pacific Avenue, Suite 255.Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 240-3054"
+    },
+    {
+        "name": "Jasbir Bhaika, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Jatin Bhatt, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "3628 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 637-0677"
+    },
+    {
+        "name": "Michael Blam, MD",
+        "gender": "Male",
+        "speciality": "Gastroenterology",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(562) 862-3656"
+    },
+    {
+        "name": "Phillip Boggs, NP",
+        "gender": "Male",
+        "speciality": "Nurse Practitioner",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Allen Bookatz, MD",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Armand Bouzaglou, MD",
+        "gender": "Male",
+        "speciality": "Radiation Oncology",
+        "address": "8900 Wilshire Blvd.beverly hills, CA 90211, USA",
+        "city": "beverly hills, CA",
+        "phone_no": "(310) 900-2760"
+    },
+    {
+        "name": "Karol Bowens, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-4445"
+    },
+    {
+        "name": "Stephanie Brenman, MD",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Scott Bricker, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Jeffrey Bulger, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Parkway.Rancho Santa Margarita, CA 92688, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Jorge Carreon, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "4500 Tweedy Blvd..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(323) 567-9661"
+    },
+    {
+        "name": "Hector Castillo, MD",
+        "gender": "Male",
+        "speciality": "Family Medicine",
+        "address": "212 Bailey Street.Los Angeles, CA 90033, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 493-1788"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Ryan Chan, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Parkway.Rancho Santa Margarita, CA 92688, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Karen Chang, MD",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Elbert Chang, DO",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8077 Florence Ave.Downey, CA 90242, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 904-6031"
+    },
+    {
+        "name": "Nathaniel Chase, NP",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Emiliano Chavira, MD",
+        "gender": "Male",
+        "speciality": "Maternal and Fetal Medicine",
+        "address": "3628 E Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 603-2345"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Gary Chen, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "1513 S. Grand Ave..Los Angeles, CA 90015, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(213) 765-8088"
+    },
+    {
+        "name": "Wen-Yuan Chiang, DO",
+        "gender": "Female",
+        "speciality": "Nephrology",
+        "address": "9844 Atlantic Ave..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(310) 631-3502"
+    },
+    {
+        "name": "Bor-Han Chiu, DO",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "11103 Venice Blvd.Los Angeles, CA 90034, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 734-8526"
+    },
+    {
+        "name": "Benjamin Chou, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "George Christides, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Kevin Chu, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "8540 S. Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 670-9119"
+    },
+    {
+        "name": "Anupama Chundu, MD",
+        "gender": "Female",
+        "speciality": "Pediatrics Neonatal-Perinatal Medicine (Archived)",
+        "address": "101 The City Drive South.Orange, CA 92868-3298, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 456-6920"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Hugh Chung, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3737 Martin Luther King Jr., Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Stevan Clark, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "10220 S. Western Ave..Los Angeles, CA 90047, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 757-1744"
+    },
+    {
+        "name": "Brittany Clark, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Michael Cogan, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "780 Atlantic avenue.Long Beach, CA 90813, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 989-5722"
+    },
+    {
+        "name": "Kenneth Cohn, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3849 Tweedy Blvd..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(323) 567-1396"
+    },
+    {
+        "name": "Rebecca Coleman, MD",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "333 City Boulevard West.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 456-6933"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Chloe Coto, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Eric Crum, DMD",
+        "gender": "Male",
+        "speciality": "Oral and Maxillofacial Surgery",
+        "address": "1670 E 120th St.Los Angeles, CA 90059, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(424) 338-1200"
+    },
+    {
+        "name": "Rajender Dabas, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "P.O. BOX 861393.Los Angeles, CA 90086-1393, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 237-0023"
+    },
+    {
+        "name": "Danielle Dabbs, DO",
+        "gender": "Female",
+        "speciality": "Surgical Critical Care",
+        "address": "3737 Martin Luther King Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Chafik Dakak, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "3301 Beechwood Ave..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 604-0105"
+    },
+    {
+        "name": "Jason Davis, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "1000 West Carson St Box 422.Torrance, CA 90509, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(424) 306-7874"
+    },
+    {
+        "name": "Maria Davis, MD",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Liberation De Leon, MD",
+        "gender": "Female",
+        "speciality": "Pediatrics",
+        "address": "16660 Paramount Blvd..Paramount, CA 90723, USA",
+        "city": "Paramount, CA",
+        "phone_no": "(562) 633-5438"
+    },
+    {
+        "name": "Bernardita De Los Reyes, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "2760 Florence Ave..Huntington Park, CA 90255-5747, USA",
+        "city": "Huntington Park, CA",
+        "phone_no": "(323) 587-2222"
+    },
+    {
+        "name": "David Delman, MD",
+        "gender": "Male",
+        "speciality": "Neurology - Telemedicine",
+        "address": "5600 S. Quebec St..Greenwood Village, CO 80111, USA",
+        "city": "Greenwood Village, CO",
+        "phone_no": "(303) 436-2727"
+    },
+    {
+        "name": "Monica Derbigny, MD",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Berj Dermendjian, DO",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "Kamakshi Devarajan, MD",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "3630 E Imperial Hwy .Lynnwood, CA 90262, USA",
+        "city": "Lynnwood, CA",
+        "phone_no": null
+    },
+    {
+        "name": "Jaspreet Dhaliwal, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Gracie-Ann Dinkins, MD",
+        "gender": "Female",
+        "speciality": "Surgical Critical Care",
+        "address": "11200 Long Beach Blvd #594.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 213-4290"
+    },
+    {
+        "name": "Arielle Donner, NP",
+        "gender": "Female",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Ahmad Dudar, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "3605 Long Beach Boulevard.Long Beach, CA 90807, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 424-8000"
+    },
+    {
+        "name": "Nikolay Dudumov, CRNA",
+        "gender": "Male",
+        "speciality": "Certified Registered Nurse Anesthetist",
+        "address": "2271 W Malvern Avenue.Fullerton, CA 92833, USA",
+        "city": "Fullerton, CA",
+        "phone_no": "(714) 503-0195, ext. 101"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Wilburn Durousseau, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "3660 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 560-7966"
+    },
+    {
+        "name": "Diana Echeverry-Franck, MD",
+        "gender": "Female",
+        "speciality": "Endocrinology, Diabetes and Metabolism",
+        "address": "3617 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 635-6002"
+    },
+    {
+        "name": "Arthur Edelstein, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3737 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-0402"
+    },
+    {
+        "name": "Sami Edris, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Carlos Edwards, PA-C",
+        "gender": "Male",
+        "speciality": "Surgical Assistant",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Carlos Edwards, PA-C",
+        "gender": "Male",
+        "speciality": "Surgical Assistant",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Allan Effron, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine - Gastroenterology (Archived)",
+        "address": "18080 Beach Blvd. #101.Huntington Beach , CA 92648, USA",
+        "city": "Huntington Beach , CA",
+        "phone_no": "(562) 882-0834"
+    },
+    {
+        "name": "Hossein Eftekhari, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "3005 Via Victoria.Palos Verdes, CA 90274, USA",
+        "city": "Palos Verdes, CA",
+        "phone_no": "(562) 869-1511"
+    },
+    {
+        "name": "Mohamed El-Shahawy, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "5830 Whittier Blvd..Los Angeles, CA 90022, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 725-0051"
+    },
+    {
+        "name": "Nora ElSayed, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Joshua Ellenhorn, MD",
+        "gender": "Male",
+        "speciality": "General Surgical Oncology",
+        "address": "8635 W. Third Street.Los Angeles, CA 90048, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 289-1518"
+    },
+    {
+        "name": "Sherman Elspas, MD",
+        "gender": "Male",
+        "speciality": "Anesthesiology",
+        "address": "2131 W Third Street.Los Angeles, CA 90057, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(213) 484-7953"
+    },
+    {
+        "name": "Joana Elston, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Mary Jo Emfield, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Jonathan Eskenazi, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "948 N. Fairfax Ave.Los Angeles, CA 90046, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 933-4590"
+    },
+    {
+        "name": "Gabriel Estremera, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3737 Martin Luther King Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Jari Faison, DDS",
+        "gender": "Female",
+        "speciality": "Pediatric Dentistry",
+        "address": "411 S. Long Beach Blvd..Compton, CA 90221, USA",
+        "city": "Compton, CA",
+        "phone_no": "(310) 537-2217"
+    },
+    {
+        "name": "Alphonso Faison, DDS",
+        "gender": "Male",
+        "speciality": "Pediatric Dentistry",
+        "address": "411 S. Long Beach Blvd..Compton, CA 90221, USA",
+        "city": "Compton, CA",
+        "phone_no": "(310) 537-2217"
+    },
+    {
+        "name": "Kenneth Fan, DO",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8077 Florence Ave.Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 904-6031"
+    },
+    {
+        "name": "Christopher Fanale, MD",
+        "gender": "Male",
+        "speciality": "Neurology - Telemedicine",
+        "address": "499 E. Hampden Avenue, Suite 360.Englewood, CO 80113, USA",
+        "city": "Englewood, CO",
+        "phone_no": "(303) 436-2727"
+    },
+    {
+        "name": "Amin Farah, MD",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "3737 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 604-0443"
+    },
+    {
+        "name": "Azadeh Farin, MD",
+        "gender": "Female",
+        "speciality": "Neurological Surgery",
+        "address": "701 E. 28th St., #117.Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 270-4849"
+    },
+    {
+        "name": "Soroush Farnoosh, MD",
+        "gender": "Male",
+        "speciality": "Otolaryngology",
+        "address": "1700 East Cesar E Chavez Avenue.Los Angeles, CA 90033, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 268-6731"
+    },
+    {
+        "name": "Doralice Ferreira, DO",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Denise Fisher, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3630 E. Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-8526"
+    },
+    {
+        "name": "Andrew Florentino, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "3585 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 605-4260"
+    },
+    {
+        "name": "Gary Ford, MD",
+        "gender": "Male",
+        "speciality": "Otolaryngology",
+        "address": "1045 Redondo Beach Blvd..Gardena, CA 90247, USA",
+        "city": "Gardena, CA",
+        "phone_no": "(310) 329-8633"
+    },
+    {
+        "name": "Andrew Fragen, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "David Friedberg, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "24331 El Toro Road.Laguna Woods, CA 92637, USA",
+        "city": "Laguna Woods, CA",
+        "phone_no": "(949) 767-0800"
+    },
+    {
+        "name": "Joseph Friedrich, MD",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4525"
+    },
+    {
+        "name": "Robert Frost, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Parkway.Rancho Santa Margarita, CA 92688, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Hugh Fulmer, MD",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 605-0128"
+    },
+    {
+        "name": "Erika Galang, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Gaurav Garg, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Robert Giombetti, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "4560 Admiralty Way #352.Marina Del Rey, CA 90292, USA",
+        "city": "Marina Del Rey, CA",
+        "phone_no": "(310) 306-8876"
+    },
+    {
+        "name": "Ignatius Godoy, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "16660 Paramount Blvd. Ste #206.Paramount, CA 90723, USA",
+        "city": "Paramount, CA",
+        "phone_no": "(562) 634-9433"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Carmen Gonzales-Nate, MD",
+        "gender": "Female",
+        "speciality": "Psychiatry",
+        "address": "3737 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 609-3890"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Christopher Goring, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "3630 E. Imperial Highway.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4788"
+    },
+    {
+        "name": "Lindsey Gripe, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner Gerontology",
+        "address": "8540 S. Sepulveda Blvd..Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Ramon Guadiz, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3625 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-0533"
+    },
+    {
+        "name": "Kanav Gupta, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Onaona Gurney, MD",
+        "gender": "Female",
+        "speciality": "Surgical Critical Care",
+        "address": "3737 Martin Luther King Jr. Blvd.Lynwood, CA 92602, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Carlos Guzman, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Edgar Guzman-Suarez, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "James Habashy, DDS",
+        "gender": "Male",
+        "speciality": "Oral and Maxillofacial Surgery",
+        "address": "1000 W Carson St.Torrance, CA 90502, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(424) 306-4264"
+    },
+    {
+        "name": "Prema Hampapur, DPM",
+        "gender": "Female",
+        "speciality": "Podiatric Surgery",
+        "address": "4911 Van Nuys Blvd.Sherman Oaks , CA 91401, USA",
+        "city": "Sherman Oaks , CA",
+        "phone_no": "(818) 205-1995"
+    },
+    {
+        "name": "Syed Hasan, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "8510 Balboa Blvd..Northridge, CA 91325, USA",
+        "city": "Northridge, CA",
+        "phone_no": "(818) 552-6230"
+    },
+    {
+        "name": "Gerald Henry, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "3628 E. Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 603-2345"
+    },
+    {
+        "name": "Diane Hermiz, DO",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Munther Hijazin, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "10916 Downey Ave..Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 861-1988"
+    },
+    {
+        "name": "Win Win Hlaing, MD",
+        "gender": "Female",
+        "speciality": "Nephrology",
+        "address": "101 E. Beverly Blvd..Montebello, CA 90640, USA",
+        "city": "Montebello, CA",
+        "phone_no": "(323) 722-7418"
+    },
+    {
+        "name": "Julia Hoang, MD",
+        "gender": "Female",
+        "speciality": "Psychiatry - Telemedicine",
+        "address": "1768 Business Center Dr., Ste. 100.Reston, VA 20190, USA",
+        "city": "Reston, VA",
+        "phone_no": "(866) 483-9690"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Ewald Horwath, MD",
+        "gender": "Male",
+        "speciality": "Psychiatry - Telemedicine",
+        "address": "2411 Dulles Corner Park, Suite 475.Herndon, VA 20171, USA",
+        "city": "Herndon, VA",
+        "phone_no": "(866) 483-9690"
+    },
+    {
+        "name": "Christopher Hoshino, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "2865 Atlantic Ave..Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 912-7437"
+    },
+    {
+        "name": "Jana Hostalek, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3621 Martin Luther King JR BLVD STE 6.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 537-1503"
+    },
+    {
+        "name": "Joseph Hsu, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "8333 Iowa St.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 861-7291"
+    },
+    {
+        "name": "Jimmy Huang, DO",
+        "gender": "Male",
+        "speciality": "Family Medicine",
+        "address": "3756 Santa Rosalia Dr..Los Angeles, CA 90008, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 292-0211"
+    },
+    {
+        "name": "Jimmy Huang, MD",
+        "gender": "Male",
+        "speciality": "Diagnostic Radiology",
+        "address": "2355 Westwood Blvd..Los Angeles, CA 90064, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 497-8698"
+    },
+    {
+        "name": "Tanvir Hussain, MD",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "3737 Martin Luther King Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 604-0443"
+    },
+    {
+        "name": "Farabi Hussain, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Brian Ichwan, MD",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Kaushik Ivaturi, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "2888 Long Beach Blvd., Suite 215.LONG BEACH, CA 90806-, USA",
+        "city": "LONG BEACH, CA",
+        "phone_no": "(562) 424-4447"
+    },
+    {
+        "name": "Javier Jardon, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "4131 Slauson ave.Maywood, CA 91911, USA",
+        "city": "Maywood, CA",
+        "phone_no": "(323) 749-8100"
+    },
+    {
+        "name": "Jacob Jensen, DPM",
+        "gender": "Male",
+        "speciality": "Podiatric Surgery",
+        "address": "3616 E 1st St.Los Angeles, CA 90063, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 264-6157"
+    },
+    {
+        "name": "Gaston Jeremiah, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Parkway.Rancho Santa Margarita, CA 92688, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Wang Ji, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "8510 Balboa Blvd.NORTHRIDGE, CA 91325, USA",
+        "city": "NORTHRIDGE, CA",
+        "phone_no": "(818) 552-6230"
+    },
+    {
+        "name": "Renu Jivrajka, MD",
+        "gender": "Female",
+        "speciality": "Ophthalmology",
+        "address": "23727 Hawthorne Boulevard.Torrance, CA 90505, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(310) 375-3020"
+    },
+    {
+        "name": "Thomas Johnson, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "9100 S. Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 674-6785"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Reginald Jones, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 213-4290"
+    },
+    {
+        "name": "Navelle Jones, MD",
+        "gender": "Female",
+        "speciality": "Pediatrics",
+        "address": "403 South Long Beach Boulevard.Compton, CA 90221, USA",
+        "city": "Compton, CA",
+        "phone_no": "(323) 774-6551"
+    },
+    {
+        "name": "Wilbert Jordan, MD",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "16660 Paramount Blvd..Paramount, CA 90723, USA",
+        "city": "Paramount, CA",
+        "phone_no": "(562) 630-1415"
+    },
+    {
+        "name": "Farzin Kabaei, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "8436 W 3rd Street.Los Angeles, CA 90048, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 792-9300"
+    },
+    {
+        "name": "Poonam Kalkat, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Anjala Kanda, DPM",
+        "gender": "Female",
+        "speciality": "Podiatric Surgery",
+        "address": "9901 Paramount Blvd. #202.Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 923-0371"
+    },
+    {
+        "name": "Frangis Karamedin, MD",
+        "gender": "Female",
+        "speciality": "Pediatrics",
+        "address": "3680 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 609-1500"
+    },
+    {
+        "name": "Pallavi Kasukurthi, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Jon Kea, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "3630 East Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 694-0425"
+    },
+    {
+        "name": "Sandeep Khanna, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "1700 E. Cesar Chavez Ave..Los Angeles, CA 90033, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(844) 211-5462"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Alexander Knezevic, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3737 Martin Luther King J.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-0402"
+    },
+    {
+        "name": "Som Kohanzadeh, MD",
+        "gender": "Male",
+        "speciality": "Plastic & Reconstructive Surgery",
+        "address": "250 N. Robertson Blvd..Beverly Hills, CA 90211, USA",
+        "city": "Beverly Hills, CA",
+        "phone_no": "(310) 975-9017"
+    },
+    {
+        "name": "Sendhil Krishnan, MD",
+        "gender": "Male",
+        "speciality": "Interventional Cardiology",
+        "address": "3737 Martin Luther King Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 604-0443"
+    },
+    {
+        "name": "Ashok Kumar, MD",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "4477 W. 118th St..Hawthorne, CA 90250, USA",
+        "city": "Hawthorne, CA",
+        "phone_no": "(310) 675-4440"
+    },
+    {
+        "name": "Anastasia Kwon, MD",
+        "gender": "Female",
+        "speciality": "Anesthesiology",
+        "address": "Anesthesia Department.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(818) 907-4599"
+    },
+    {
+        "name": "Edward Kwon, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Thomas Kwong, MD",
+        "gender": "Male",
+        "speciality": "Psychiatry",
+        "address": "14860 Roscoe Blvd.Panorama City, CA 91402, USA",
+        "city": "Panorama City, CA",
+        "phone_no": "(747) 998-0387"
+    },
+    {
+        "name": "Naznin Lalani, CRNA",
+        "gender": "Female",
+        "speciality": "Certified Registered Nurse Anesthetist",
+        "address": "2271 W Malvern Avenue.Fullerton, CA 92833, USA",
+        "city": "Fullerton, CA",
+        "phone_no": "(714) 503-0195, ext. 101"
+    },
+    {
+        "name": "Andrew Lampley, MD",
+        "gender": "Male",
+        "speciality": "Psychiatry",
+        "address": "16260 Ventura Blvd,.Encino, CA 91436, USA",
+        "city": "Encino, CA",
+        "phone_no": "(747) 998-0387"
+    },
+    {
+        "name": "Lesley Lawrenson, MD",
+        "gender": "Female",
+        "speciality": "Radiation Oncology",
+        "address": "14608 Hawthorne Blvd..Lawndale, CA 90260, USA",
+        "city": "Lawndale, CA",
+        "phone_no": "(310) 978-4970"
+    },
+    {
+        "name": "Christine Le, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Sung Lee, DO",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "4955 Van Nuys Blvd #308.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(818) 528-1260"
+    },
+    {
+        "name": "Onechang Lee, MD",
+        "gender": "Male",
+        "speciality": "Neurological Surgery",
+        "address": "18035 Brookhurst Street, Ste 1700.Fountain Valley, CA 92708, USA",
+        "city": "Fountain Valley, CA",
+        "phone_no": "(714) 433-2000"
+    },
+    {
+        "name": "Mark Lee, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "11147 Washington Blvd..Whittier, CA 90606, USA",
+        "city": "Whittier, CA",
+        "phone_no": "(562) 695-6988"
+    },
+    {
+        "name": "Renee Lee, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Brian Lee, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3625 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 763-7504"
+    },
+    {
+        "name": "Michelle Lee, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "24331 El Toro Road ste 200.Laguna Woods, CA 92637, USA",
+        "city": "Laguna Woods, CA",
+        "phone_no": "(949) 767-0800"
+    },
+    {
+        "name": "Stacy Lee, PA-C",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Daniel Lemay, MD",
+        "gender": "Male",
+        "speciality": "Neurological Surgery",
+        "address": "8043 2nd St..Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 862-1134"
+    },
+    {
+        "name": "Daniel Lemor, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3849 Tweedy Blvd..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(323) 567-1396"
+    },
+    {
+        "name": "Marcos Lemor, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "4036 E. Whittier Blvd..Los Angeles, CA 90023, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 262-3333"
+    },
+    {
+        "name": "Jamie Lipeles, DO",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "4560 Admiralty Way.Marina Del Rey, CA 90292, USA",
+        "city": "Marina Del Rey, CA",
+        "phone_no": "(310) 694-5255"
+    },
+    {
+        "name": "Minghsun Liu, MD",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "11103 Venice Blvd..Los Angeles, CA 90034, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 734-8526"
+    },
+    {
+        "name": "Robert Loitz, MD",
+        "gender": "Male",
+        "speciality": "Pediatric Cardiology",
+        "address": "1122 Lagunita Road.Pasadena, CA 91105, USA",
+        "city": "Pasadena, CA",
+        "phone_no": "(626) 799-8597"
+    },
+    {
+        "name": "Bryan Love, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Stephen Lui, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3625 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 763-7504"
+    },
+    {
+        "name": "Huy Ly, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3510 Martin Luther King Jr. Blv.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 603-8749"
+    },
+    {
+        "name": "Colin MacNeil, DO",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Paiboon Mahaisavariya, MD",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "8317 Davis St..Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1511"
+    },
+    {
+        "name": "Ahmed Maki, DO",
+        "gender": "Male",
+        "speciality": "Otolaryngology",
+        "address": "1700 East Cesar E Chavez Avenue.Los Angeles, CA 90033, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 268-6731"
+    },
+    {
+        "name": "Farshad Malekmehr, MD",
+        "gender": "Male",
+        "speciality": "Thoracic and Cardiac Surgery",
+        "address": "16311 Ventura Blvd.Encino, CA 91403, USA",
+        "city": "Encino, CA",
+        "phone_no": "(818) 908-9752"
+    },
+    {
+        "name": "Sameer Malhotra, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "8540 S. Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 670-9119"
+    },
+    {
+        "name": "Alison Malizzi, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner Gerontology",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Nalin Mallik, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "420 W. Rowland Street.Covina, CA 91723, USA",
+        "city": "Covina, CA",
+        "phone_no": "(626) 331-6411"
+    },
+    {
+        "name": "Concepcion Mangasep, MD",
+        "gender": "Female",
+        "speciality": "Psychiatry",
+        "address": "2776 Pacific Avenue.Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 997-2000"
+    },
+    {
+        "name": "Christopher Marrocco, MD",
+        "gender": "Male",
+        "speciality": "Vascular Surgery",
+        "address": "1251 West Redondo Beach Boulevard.Gardena, CA 90247, USA",
+        "city": "Gardena, CA",
+        "phone_no": "(562) 698-0271"
+    },
+    {
+        "name": "Claudia Martinez, MD",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Marsha Martinson, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8077 Florence Ave..Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 904-6031"
+    },
+    {
+        "name": "Dorsa Maryska, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "101 E. Beverly Blvd..Montebello, CA 90640, USA",
+        "city": "Montebello, CA",
+        "phone_no": "(323) 722-7418"
+    },
+    {
+        "name": "K.N. Mbagwu, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "1218 S. Inglewood Ave..Inglewood, CA 90301, USA",
+        "city": "Inglewood, CA",
+        "phone_no": "(310) 672-4881"
+    },
+    {
+        "name": "Ricardo McKenzie, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "3680 E. Imperial Hwy.null, CA null, USA",
+        "city": "CA",
+        "phone_no": "(310) 705-7730"
+    },
+    {
+        "name": "Michael McLean, MD",
+        "gender": "Male",
+        "speciality": "Thoracic and Cardiac Surgery",
+        "address": "1555 East Street, Suite 120.Redding, CA 96001, USA",
+        "city": "Redding, CA",
+        "phone_no": "(530) 242-6122"
+    },
+    {
+        "name": "Katharine McManus, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Ryan McNally, MD",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Joseph McQuirter, DDS",
+        "gender": "Male",
+        "speciality": "Oral and Maxillofacial Surgery",
+        "address": "2690 Pacific Ave.Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(855) 413-5009"
+    },
+    {
+        "name": "Mario Meallet, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3849 Tweedy Blvd..Southgate, CA 90280, USA",
+        "city": "Southgate, CA",
+        "phone_no": "(323) 567-4956"
+    },
+    {
+        "name": "Akshay Mehta, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "3628 E. Imperial Highway.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(800) 216-2792"
+    },
+    {
+        "name": "Manish Mehta, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "3628 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 639-4876"
+    },
+    {
+        "name": "Melanie Melillo, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "24331 El Toro Rd.Laguna Woods, CA 92637, USA",
+        "city": "Laguna Woods, CA",
+        "phone_no": "(949) 767-0800"
+    },
+    {
+        "name": "Muhammad Memon, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "555 W. Compton Blvd..Compton, CA 90220, USA",
+        "city": "Compton, CA",
+        "phone_no": "(310) 639-7200"
+    },
+    {
+        "name": "Helene Mendez, NP",
+        "gender": "Female",
+        "speciality": "Adult Nurse Practitioner",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Saad Mir, MD",
+        "gender": "Male",
+        "speciality": "Neurology - Telemedicine",
+        "address": "5600 S. Quebec St..Greenwood Village, CO 80111, USA",
+        "city": "Greenwood Village, CO",
+        "phone_no": "(303) 436-2716"
+    },
+    {
+        "name": "Devadatt Mishal, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8500 Florence Ave..Downey, CA 90240-4056, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-4579"
+    },
+    {
+        "name": "Antoine Mitri, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "10916 Downey Ave..Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 861-1988"
+    },
+    {
+        "name": "Raj Mittal, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "4305 Torrance Boulevard.Torrance, CA 90505, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(310) 539-2630"
+    },
+    {
+        "name": "Samer Moghaddam, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-8090"
+    },
+    {
+        "name": "Yasser Mohamed Omar, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Hamid Mohazab, DO",
+        "gender": "Male",
+        "speciality": "Diagnostic Radiology",
+        "address": "1164 Steuben Street .Pasadena , CA 91106, USA",
+        "city": "Pasadena , CA",
+        "phone_no": "(312) 406-2235"
+    },
+    {
+        "name": "Benjamin Monroe, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "3628 E Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 605-0048"
+    },
+    {
+        "name": "Ramin Monshizadeh, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "8577 Haven Ave..Rancho Cucamong, CA 91730-4850, USA",
+        "city": "Rancho Cucamong, CA",
+        "phone_no": "(909) 944-5353"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Gloria Morales, MD",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "12401 Washington Blvd.Whittier, CA 90602, USA",
+        "city": "Whittier, CA",
+        "phone_no": "(562) 698-0811 xEt17529"
+    },
+    {
+        "name": "Julia Morey, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3451 W. Century Blvd..Inglewood, CA 90303, USA",
+        "city": "Inglewood, CA",
+        "phone_no": "(310) 854-9469"
+    },
+    {
+        "name": "Lewis Moss, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "3628 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4788"
+    },
+    {
+        "name": "Ayush Motwani , MD",
+        "gender": "Male",
+        "speciality": "Interventional Cardiology",
+        "address": "4955 Van Nuys Blvd #308.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(818) 528-1260"
+    },
+    {
+        "name": "Ashkan Mowla, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "1520 San Pablo Street , suite 3300.Los Angeles, CA null, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 442-7512"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Fadi Nakhl, MD",
+        "gender": "Male",
+        "speciality": "Hematology",
+        "address": "3628 Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 667-4000"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Emily Ng, MD",
+        "gender": "Female",
+        "speciality": "Psychiatry",
+        "address": "14860 Roscoe Blvd.Panorama City, CA 91402, USA",
+        "city": "Panorama City, CA",
+        "phone_no": "(747) 998-0387"
+    },
+    {
+        "name": "Hung Nguyen, MD",
+        "gender": "Male",
+        "speciality": "Hospitalist",
+        "address": "SRMC Hospitalist Office, 3rd Floor.Redding, CA 96001, USA",
+        "city": "Redding, CA",
+        "phone_no": "(530) 244-5434"
+    },
+    {
+        "name": "Thuan Nguyen, DO",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "Yona Nicolau, MD",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "333 City Blvd.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 456-6933"
+    },
+    {
+        "name": "Bret Nolan, DO",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "505 S. Main Street.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 512-3939"
+    },
+    {
+        "name": "Valentina Obreja, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner Gerontology",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Anthony Ogundipe, MD",
+        "gender": "Male",
+        "speciality": "Maternal Fetal Medicine",
+        "address": "3628 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 603-2345"
+    },
+    {
+        "name": "Sushil Ojha, MD",
+        "gender": "Male",
+        "speciality": "Gastroenterology",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262-3512, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(562) 862-3656"
+    },
+    {
+        "name": "Huitzilin Olmecah, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "11339 South 700 East, Suite 200.Sandy, UT 84070, USA",
+        "city": "Sandy, UT",
+        "phone_no": "(949) 466-8252"
+    },
+    {
+        "name": "Bassam Omari, MD",
+        "gender": "Male",
+        "speciality": "Cardiothoracic Vascular Surgery",
+        "address": "1000 W. Carson St..Torrance, CA 90509, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(310) 710-4648"
+    },
+    {
+        "name": "Osita Onugha, MD",
+        "gender": "Male",
+        "speciality": "Thoracic and Cardiac Surgery",
+        "address": "3831 Hughes Ave, Suite 105.Culver City, CA 90232, USA",
+        "city": "Culver City, CA",
+        "phone_no": "(424) 625-5864"
+    },
+    {
+        "name": "Osita Onugha, MD",
+        "gender": "Male",
+        "speciality": "Thoracic and Cardiac Surgery",
+        "address": "3831 Hughes Ave, Suite 105.Culver City, CA 90232, USA",
+        "city": "Culver City, CA",
+        "phone_no": "(424) 625-5864"
+    },
+    {
+        "name": "Aaron Ovadia, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "8540 S. Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 670-9119"
+    },
+    {
+        "name": "Twyman Owens, MD",
+        "gender": "Male",
+        "speciality": "Pediatric Cardiology",
+        "address": "3680 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 635-6181"
+    },
+    {
+        "name": "William Paik, MD",
+        "gender": "Male",
+        "speciality": "Radiology - Telemedicine",
+        "address": "2833 Hillside Dr..West Covina, CA 91791, USA",
+        "city": "West Covina, CA",
+        "phone_no": "(949) 706-7502"
+    },
+    {
+        "name": "Peter Pak, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "1800 Orleans St..Baltimore, MD 21287, USA",
+        "city": "Baltimore, MD",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Hemant Pande, MD",
+        "gender": "Male",
+        "speciality": "Gastroenterology",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(562) 862-3656"
+    },
+    {
+        "name": "Potenciano Paredes, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "15901 Hawthorne Blvd.Hawthorne, CA 90260, USA",
+        "city": "Hawthorne, CA",
+        "phone_no": "(310) 679-0269"
+    },
+    {
+        "name": "James Parmer, NP",
+        "gender": "Male",
+        "speciality": "Nurse Practitioner",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Sapna Patel, MD",
+        "gender": "Female",
+        "speciality": "Nephrology",
+        "address": "2888 Long Beach Blvd..Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 424-4447"
+    },
+    {
+        "name": "Devesh Patel, MD",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "216 S Citrus Street.West covina, CA 91791, USA",
+        "city": "West covina, CA",
+        "phone_no": "(626) 859-4167"
+    },
+    {
+        "name": "Paryus Patel, MD",
+        "gender": "Male",
+        "speciality": "Critical Care Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Devang Patel, MD",
+        "gender": "Male",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "1201 W. La Veta Ave.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 509-3096"
+    },
+    {
+        "name": "Neal Patel, DPM",
+        "gender": "Male",
+        "speciality": "Podiatric Surgery",
+        "address": "250 N. Robertson Blvd..Beverly Hills, CA 90211, USA",
+        "city": "Beverly Hills, CA",
+        "phone_no": "(310) 919-4179"
+    },
+    {
+        "name": "Meera Patel, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner Gerontology",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Baminihannadige Peiris, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "8510 Balboa Blvd..Northridge, CA 91325, USA",
+        "city": "Northridge, CA",
+        "phone_no": "(818) 552-6230"
+    },
+    {
+        "name": "Arturo Pelayo, MD",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "William Perkins, MD",
+        "gender": "Male",
+        "speciality": "Pediatric Critical Care Medicine",
+        "address": "17100 Euclid St..Fountain Valley, CA 92708, USA",
+        "city": "Fountain Valley, CA",
+        "phone_no": "(714) 966-7253"
+    },
+    {
+        "name": "Loy Pham, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8500 Florence Ave..Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-4579"
+    },
+    {
+        "name": "Nathan Pierce, MD",
+        "gender": "Male",
+        "speciality": "Otolaryngology",
+        "address": "1700 East Cesar E Chavez Avenue.Los Angeles, CA 90033, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 268-6731"
+    },
+    {
+        "name": "John Pinches, DO",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8615 Knott Ave., Ste. #5.Buena Park, CA 90620, USA",
+        "city": "Buena Park, CA",
+        "phone_no": "(562) 596-5566"
+    },
+    {
+        "name": "Vimal Ponnezhan, MD",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "3224 Santa Ana St., Ste A.South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(323) 763-1300"
+    },
+    {
+        "name": "Annahita Pourmand, MD",
+        "gender": "Female",
+        "speciality": "Hospitalist",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "Shahin Pourrabbani, MD",
+        "gender": "Male",
+        "speciality": "Vascular Surgery",
+        "address": "1251 West Redondo Beach Boulevard.Gardena, CA 90247, USA",
+        "city": "Gardena, CA",
+        "phone_no": "(562) 698-0271"
+    },
+    {
+        "name": "Jonathan Pryor, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "11200 Long Beach Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(562) 981-6933"
+    },
+    {
+        "name": "Joshua Puig, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Parkway.Rancho Santa Margarita, CA 92688, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Joel Quijano, MD",
+        "gender": "Male",
+        "speciality": "Family Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(818) 638-1157"
+    },
+    {
+        "name": "Collin Radcliffe, CRNA",
+        "gender": "Male",
+        "speciality": "Certified Registered Nurse Anesthetist",
+        "address": "21060 pacific city cir unit 612.Huntington Beach, CA null, USA",
+        "city": "Huntington Beach, CA",
+        "phone_no": "(407) 496-7773"
+    },
+    {
+        "name": "Masoud Rahban, MD",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "5901 W. Olympic Blvd # 307.Los Angeles, CA 90036, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 549-0950"
+    },
+    {
+        "name": "Danielle Ramage, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "14860 Roscoe Blvd.Panorama City, CA 91402, USA",
+        "city": "Panorama City, CA",
+        "phone_no": "(747) 998-0387"
+    },
+    {
+        "name": "Eugene Rapaport, MD",
+        "gender": "Male",
+        "speciality": "Anesthesiology",
+        "address": "1601 N. Sepulveda Blvd..Manhattan Beach, CA 90266, USA",
+        "city": "Manhattan Beach, CA",
+        "phone_no": "(310) 210-8567"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Tyra Reece, MD",
+        "gender": "Female",
+        "speciality": "Pediatrics",
+        "address": "403 South Long Beach Boulevard.Compton, CA 90221, USA",
+        "city": "Compton, CA",
+        "phone_no": "(323) 774-6551"
+    },
+    {
+        "name": "Jose Rivas, MD",
+        "gender": "Male",
+        "speciality": "Thoracic and Cardiac Surgery",
+        "address": "3100 E. Florence Ave..Huntington Park, CA 90255, USA",
+        "city": "Huntington Park, CA",
+        "phone_no": "(323) 583-6361"
+    },
+    {
+        "name": "Rodrigo Rocha, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "3625 E. MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-0533"
+    },
+    {
+        "name": "Javier Rodriguez, PA",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Stephen Rogitz, PA-C",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "22431 Antonio Parkway.Rancho Santa Margarita, CA 92688, USA",
+        "city": "Rancho Santa Margarita, CA",
+        "phone_no": "(855) 727-2251"
+    },
+    {
+        "name": "Antonio Romero, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "10230 E. Artesia Blvd.Bellflower, CA 90706, USA",
+        "city": "Bellflower, CA",
+        "phone_no": "(323) 749-6555"
+    },
+    {
+        "name": "Marilyn Rosca, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3625 MLK Jr. Blvd..Lynwood, CA 90262-3509, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 223-1429"
+    },
+    {
+        "name": "David Rosenberg, MD",
+        "gender": "Male",
+        "speciality": "Plastic Surgery",
+        "address": "145 N Roberson Blvd.Beverly Hills, CA 90211, USA",
+        "city": "Beverly Hills, CA",
+        "phone_no": "(310) 295-7925"
+    },
+    {
+        "name": "Ginni Rosenfeld, MD",
+        "gender": "Female",
+        "speciality": "Maternal Fetal Medicine",
+        "address": "575 E. Hardy St..Inglewood, CA 90301, USA",
+        "city": "Inglewood, CA",
+        "phone_no": "(310) 742-2245"
+    },
+    {
+        "name": "Ronald Rosso, MD",
+        "gender": "Male",
+        "speciality": "Plastic Surgery",
+        "address": "3400 Lomita.Torrance, CA 90505, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(310) 326-3636"
+    },
+    {
+        "name": "Saloomeh Saati, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3737 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-0402"
+    },
+    {
+        "name": "Nicholas Saguan, MD",
+        "gender": "Male",
+        "speciality": "Vascular Surgery",
+        "address": "1818 N. Orange Grove Ave.,Suite 307.Pomona, CA 91767, USA",
+        "city": "Pomona, CA",
+        "phone_no": "(909) 326-2853"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Pauline Salguero, PA",
+        "gender": "Female",
+        "speciality": "Vascular Surgery",
+        "address": "1251 West Redondo Beach Boulevard.Gardena, CA 90247, USA",
+        "city": "Gardena, CA",
+        "phone_no": "(562) 698-0271"
+    },
+    {
+        "name": "Syed Samee, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "1610 North Raymond Avenue.Fullerton, CA 92831, USA",
+        "city": "Fullerton, CA",
+        "phone_no": null
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Nancy Sand, MD",
+        "gender": "Female",
+        "speciality": "Ophthalmology",
+        "address": "16415 Colorado Ave..Paramount, CA 90723, USA",
+        "city": "Paramount, CA",
+        "phone_no": "(562) 272-4277"
+    },
+    {
+        "name": "Varneet Sandhu, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Ruchi Sareen, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "James Saunders, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "3737 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 537-1221"
+    },
+    {
+        "name": "Oran Schachter, DPM",
+        "gender": "Male",
+        "speciality": "Podiatric Surgery",
+        "address": "250 N Robertson Blvd.Beverly Hills, CA 90211, USA",
+        "city": "Beverly Hills, CA",
+        "phone_no": "(310) 919-4179"
+    },
+    {
+        "name": "Donna Schmelzer, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant Surgery",
+        "address": "3628 Imperial Hwy.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4788"
+    },
+    {
+        "name": "Megan Schulz, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Dana Scott, MD",
+        "gender": "Female",
+        "speciality": "Urology",
+        "address": "4859 W. Slauson Ave..Los Angeles, CA 90056-3211, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(213) 670-7675"
+    },
+    {
+        "name": "Erica Scott, NP",
+        "gender": "Female",
+        "speciality": "Nurse Practitioner",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Michael Scott, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "3637 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 537-9230"
+    },
+    {
+        "name": "Alyssa Scott, MD",
+        "gender": "Female",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Douglas Segal, MD",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "11546 Downey Ave.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 414-9846"
+    },
+    {
+        "name": "Parkash Sehdeva, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "12321 Hawthorne Blvd..Hawthorne, CA 90250, USA",
+        "city": "Hawthorne, CA",
+        "phone_no": "(310) 263-1400"
+    },
+    {
+        "name": "Arunpal Sehgal, MD",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "3621 MLK Jr. Blvd. .Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-9977"
+    },
+    {
+        "name": "Natalie Seiser, MD",
+        "gender": "Female",
+        "speciality": "General Surgical Oncology",
+        "address": "3628 E. Imperial Highway .Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-5010"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Jamshid Shafai, MD",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "7601 Atlantic Ave..Cudahy, CA 90201, USA",
+        "city": "Cudahy, CA",
+        "phone_no": "(323) 562-3500"
+    },
+    {
+        "name": "M. Mohsin Shah, MD",
+        "gender": "Male",
+        "speciality": "Neurological Surgery",
+        "address": "8043 2nd Street, Suite 105.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 862-1134"
+    },
+    {
+        "name": "Mona Shah, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "1600 S. Gaffey St..San Pedro, CA 90731, USA",
+        "city": "San Pedro, CA",
+        "phone_no": "(310) 548-0201"
+    },
+    {
+        "name": "Mona Shah, MD",
+        "gender": "Female",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(562) 543-7056"
+    },
+    {
+        "name": "Paurush Shah, MD",
+        "gender": "Male",
+        "speciality": "Gastroenterology",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Almaas Shaikh, MD",
+        "gender": "Female",
+        "speciality": "General Surgery",
+        "address": "3737 Martin Luther King J.Lynwood, CA 90262-3513, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Hanna Shammas, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "3510 E. MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-9391"
+    },
+    {
+        "name": "Maya Shammas, MD",
+        "gender": "Female",
+        "speciality": "Ophthalmology",
+        "address": "3510 E. MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 638-9391"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Anil Sharma, MD",
+        "gender": "Male",
+        "speciality": "Psychiatry",
+        "address": "16260 Ventura Blvd., #630.Encino, CA 91316, USA",
+        "city": "Encino, CA",
+        "phone_no": "(818) 770-3627"
+    },
+    {
+        "name": "Neha Sharma, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Sylvia Shaw, MD",
+        "gender": "Female",
+        "speciality": "Endocrinology, Diabetes and Metabolism",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 537-6397"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Tchaka Shepherd, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3737 Martin Luther King Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 403-4778"
+    },
+    {
+        "name": "Helen Shnol, DPM",
+        "gender": "Female",
+        "speciality": "Podiatric Surgery",
+        "address": "8635 West 3rd Street.Los Angeles, CA 90048, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(424) 239-9743"
+    },
+    {
+        "name": "Garrett Shriver, NP",
+        "gender": "Male",
+        "speciality": "Nurse Practitioner",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Chad Sila, MD",
+        "gender": "Male",
+        "speciality": "Radiation Oncology",
+        "address": "14608 Hawthorne Blvd..Lawndale, CA 90260, USA",
+        "city": "Lawndale, CA",
+        "phone_no": "(310) 978-4970"
+    },
+    {
+        "name": "Jack Sills, MD",
+        "gender": "Male",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "1201 W. La Veta Ave..Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 509-8632"
+    },
+    {
+        "name": "James Simmons, NP",
+        "gender": "Male",
+        "speciality": "Hospitalist",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "Jessica Simpson, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "11061 S. Atlantic Ave..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 885-5816"
+    },
+    {
+        "name": "Edward Sims, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3625 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-9073"
+    },
+    {
+        "name": "Ravinder Singh, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "8920 Wilshire Blvd., Ste 520.Beverly Hills, CA 90211, USA",
+        "city": "Beverly Hills, CA",
+        "phone_no": "(310) 432-2880"
+    },
+    {
+        "name": "Anantjit Singh, MD",
+        "gender": "Male",
+        "speciality": "Clinical Cardiac Electrophysiology",
+        "address": "11544 Downey Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 923-2466"
+    },
+    {
+        "name": "Willy Singh, DO",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "101 E. Beverly Blvd..Montebello, CA 90640, USA",
+        "city": "Montebello, CA",
+        "phone_no": "(323) 722-7418"
+    },
+    {
+        "name": "Shaun Singh, DO",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Brittany Slaughter, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Blair Smart, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Nathanael Smith, DPM",
+        "gender": "Male",
+        "speciality": "Podiatric Surgery",
+        "address": "5220 Clark Ave.Lakewood, CA null, USA",
+        "city": "Lakewood, CA",
+        "phone_no": "(562) 804-1381"
+    },
+    {
+        "name": "John Terence So, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "11525 Brookshire Avenue.Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1070"
+    },
+    {
+        "name": "Byron Spencer, MD",
+        "gender": "Male",
+        "speciality": "Neurology - Telemedicine",
+        "address": "5600 S Quebec St Suite 312A.Greenwood Village, CO 80111, USA",
+        "city": "Greenwood Village, CO",
+        "phone_no": "(303) 436-2727"
+    },
+    {
+        "name": "Debra Stafford, MD",
+        "gender": "Female",
+        "speciality": "Plastic Surgery",
+        "address": "6051 W. San Vicente Blvd..Los Angeles, CA 90036, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 954-9161"
+    },
+    {
+        "name": "Malgorzata Stanczyk, MD",
+        "gender": "Female",
+        "speciality": "General Surgery",
+        "address": "432 E. 10th St..Long Beach, CA 90813, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 491-7935"
+    },
+    {
+        "name": "Donald Stevenson, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "575 E. Hardy Street Ste. 109.Inglewood, CA 90301, USA",
+        "city": "Inglewood, CA",
+        "phone_no": "(310) 674-1211"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Jeffrey Strickland, MD",
+        "gender": "Male",
+        "speciality": "Anesthesiology",
+        "address": "2271 W Malvern Avenue.Fullerton, CA 92833, USA",
+        "city": "Fullerton, CA",
+        "phone_no": "(714) 503-0195, ext. 101"
+    },
+    {
+        "name": "Aaron Strumwasser, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Medardo Supnet, MD",
+        "gender": "Male",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "3585 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 605-4260"
+    },
+    {
+        "name": "Meher Tabatabai, MD",
+        "gender": "Female",
+        "speciality": "Infectious Disease",
+        "address": "3621 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 537-1503"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Kaushal Tamboli, MD",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "8317 Davis St..Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1511"
+    },
+    {
+        "name": "Maged Tanios, MD",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "3605 Long Beach Boulevard.Long Beach, CA 90807, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 424-8000"
+    },
+    {
+        "name": "Naureen Tareen, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "10941 Bloomfield Suite A.Los Alamitos, CA 90721, USA",
+        "city": "Los Alamitos, CA",
+        "phone_no": "(562) 596-1667"
+    },
+    {
+        "name": "Velen Tat, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "James Tatum, MD",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Odette Tawadrous, MD",
+        "gender": "Female",
+        "speciality": "Internal Medicine",
+        "address": "3625 MLK Jr. Blvd..Lynwood, CA 90262-3509, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 223-1429"
+    },
+    {
+        "name": "Khaled Tawansy, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "7447 N. Figueroa St..Los Angeles, CA 90041, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 257-3937"
+    },
+    {
+        "name": "Kiriaki Taylor , PA-C",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "4911 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(818) 205-1995"
+    },
+    {
+        "name": "Bhavik Thakkar, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Nickolas Tomasic, MD",
+        "gender": "Male",
+        "speciality": "Urology",
+        "address": "8540 S. Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 670-9119"
+    },
+    {
+        "name": "Jose Torreblanca, DO",
+        "gender": "Male",
+        "speciality": "Pediatrics",
+        "address": "10001 California Ave..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(323) 564-4408"
+    },
+    {
+        "name": "Ngoc-Tram Tran, DO",
+        "gender": "Female",
+        "speciality": "Nephrology",
+        "address": "2888 Long Beach Blvd..Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 424-4447"
+    },
+    {
+        "name": "Geoffrey Trenkle, DO",
+        "gender": "Male",
+        "speciality": "Otolaryngology",
+        "address": "1700 East Cesar E Chavez Avenue.Los Angeles, CA 90033, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 268-6731"
+    },
+    {
+        "name": "Wilbur Troutman, MD",
+        "gender": "Male",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "3660 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 631-9988"
+    },
+    {
+        "name": "Phuong Truong-Yue, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8500 Florence Ave..Downey, CA 90240-4056, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-4579"
+    },
+    {
+        "name": "Mark Tsai, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "16415 S. Colorado Ave.Paramount, CA 90723-5051, USA",
+        "city": "Paramount, CA",
+        "phone_no": "(562) 634-6341"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Thuc Tu, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "6552 Bolsa Ave..Huntington Beach, CA 92647-2656, USA",
+        "city": "Huntington Beach, CA",
+        "phone_no": "(714) 898-9635"
+    },
+    {
+        "name": "Nnaemeka Udoh, MD",
+        "gender": "Male",
+        "speciality": "General Surgery",
+        "address": "3314 W. Vernon Ave..Los Angeles, CA 90008, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 298-0455"
+    },
+    {
+        "name": "Chinedu Ugorji, MD",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "16660 Parmount Blvd..Paramount, CA 90723-5458, USA",
+        "city": "Paramount, CA",
+        "phone_no": "(562) 408-0131"
+    },
+    {
+        "name": "Miguel Unzueta, MD",
+        "gender": "Male",
+        "speciality": "Ophthalmology",
+        "address": "5750 Downey Ave..Lakewood, CA 90712, USA",
+        "city": "Lakewood, CA",
+        "phone_no": "(562) 866-8293"
+    },
+    {
+        "name": "Kristen Uquillas, MD",
+        "gender": "Female",
+        "speciality": "Maternal and Fetal Medicine",
+        "address": "4201 Torrance Blvd, Suite 540.Torrance, CA 90503, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(917) 846-5688"
+    },
+    {
+        "name": "Cherry Uy, MD",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "333 City Blvd.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 456-6933"
+    },
+    {
+        "name": "Stacey Valdez, DPM",
+        "gender": "Female",
+        "speciality": "Podiatric Surgery",
+        "address": "3616 E. 1st St..Los Angeles, CA 90063, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(323) 264-6157"
+    },
+    {
+        "name": "Eugene Van, DO",
+        "gender": "Male",
+        "speciality": "Pulmonary Medicine",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Alejandro Varela, PA",
+        "gender": "Male",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Alyssa Vasquez, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Mailinh Vu, MD",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "3661 Torrance Blvd, Suite 200.Torrance, CA 90503, USA",
+        "city": "Torrance, CA",
+        "phone_no": "(424) 344-9233"
+    },
+    {
+        "name": "Thomas Vu, DO",
+        "gender": "Male",
+        "speciality": "Emergency Medicine",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 900-4534"
+    },
+    {
+        "name": "Hsun-yu Vuong, NP",
+        "gender": "Male",
+        "speciality": "Nurse Practitioner",
+        "address": "8540 South Sepulveda Blvd.Los Angeles, CA 90045, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(310) 295-0075"
+    },
+    {
+        "name": "Mitali Wadekar, MD",
+        "gender": "Female",
+        "speciality": "Psychiatry",
+        "address": "14860 Roscoe Blvd Suite 307.Panorama City, CA 91402, USA",
+        "city": "Panorama City, CA",
+        "phone_no": "(747) 998-0387"
+    },
+    {
+        "name": "Jeffrey Wagner, MD",
+        "gender": "Male",
+        "speciality": "Neurology - Telemedicine",
+        "address": "5600 S Quebec St.Greenwood Village, CO 80111, USA",
+        "city": "Greenwood Village, CO",
+        "phone_no": "(303) 436-2727"
+    },
+    {
+        "name": "Olukemi Wallace, MD",
+        "gender": "Female",
+        "speciality": "Hematology",
+        "address": "2220 W. Manchester Blvd..Inglewood, CA 90305, USA",
+        "city": "Inglewood, CA",
+        "phone_no": "(310) 644-8400"
+    },
+    {
+        "name": "Jamie Weiss, MD",
+        "gender": "Female",
+        "speciality": "Cardiovascular Disease",
+        "address": "3737 MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 604-0443"
+    },
+    {
+        "name": "Joy Wells, PA",
+        "gender": "Female",
+        "speciality": "Physician Assistant",
+        "address": "8077 Florence Ave Unit 112.Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 904-6031"
+    },
+    {
+        "name": "Jason Wiguna, DO",
+        "gender": "Male",
+        "speciality": "Internal Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(818) 638-1157"
+    },
+    {
+        "name": "Paul Wisniewski, DO",
+        "gender": "Male",
+        "speciality": "Surgical Critical Care",
+        "address": "3628 E. Imperial Hwy, Suite 408.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 554-4127"
+    },
+    {
+        "name": "Emilia Wobga-Pasiah, MD",
+        "gender": "Female",
+        "speciality": "Family Medicine",
+        "address": "4955 Van Nuys Blvd.Sherman Oaks, CA 91403, USA",
+        "city": "Sherman Oaks, CA",
+        "phone_no": "(213) 279-1220"
+    },
+    {
+        "name": "Stuart Wolf, MD",
+        "gender": "Male",
+        "speciality": "Family Medicine",
+        "address": "3625 E. MLK Jr. Blvd..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 223-1444"
+    },
+    {
+        "name": null,
+        "gender": null,
+        "speciality": null,
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Sean Xie, MD",
+        "gender": "Male",
+        "speciality": "Neurological Surgery",
+        "address": "1414 S. Grand Ave.Los Angeles, CA 90015, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(213) 977-1102"
+    },
+    {
+        "name": "Sasan Yadegar, MD",
+        "gender": "Male",
+        "speciality": "Neurological Surgery",
+        "address": "575 E. Hardy St., #220.Inglewood, CA 90301, USA",
+        "city": "Inglewood, CA",
+        "phone_no": "(310) 673-7724"
+    },
+    {
+        "name": "Malvin Yan, DO",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "9844 Atlantic Ave..South Gate, CA 90280, USA",
+        "city": "South Gate, CA",
+        "phone_no": "(310) 886-0869"
+    },
+    {
+        "name": "Helen Yang, DO",
+        "gender": "Female",
+        "speciality": "Obstetrics and Gynecology",
+        "address": "8077 Florence Ave.Downey, CA 90242, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 904-6031"
+    },
+    {
+        "name": "Parham Yashar, MD",
+        "gender": "Male",
+        "speciality": "Neurological Surgery",
+        "address": "8436 W. 3rd Street, Suite 800.Los Angeles, CA 90048, USA",
+        "city": "Los Angeles, CA",
+        "phone_no": "(424) 209-2669"
+    },
+    {
+        "name": "Brian Yi, DPM",
+        "gender": "Male",
+        "speciality": "Podiatric Surgery",
+        "address": "13788 Roswell Avenue.Chino, CA 91710, USA",
+        "city": "Chino, CA",
+        "phone_no": "(909) 464-2008"
+    },
+    {
+        "name": "Paul Yoshino, MD",
+        "gender": "Male",
+        "speciality": "Interventional Cardiology",
+        "address": "8317 Davis St..Downey, CA 90241, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 869-1511"
+    },
+    {
+        "name": "Teddy Youn, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": null,
+        "city": null,
+        "phone_no": null
+    },
+    {
+        "name": "Chibong Yu, DO",
+        "gender": "Male",
+        "speciality": "Infectious Disease",
+        "address": "1023 Whispering Oaks Dr..Arcadia, CA 91006, USA",
+        "city": "Arcadia, CA",
+        "phone_no": "(626) 515-4130"
+    },
+    {
+        "name": "Amirhossein Zangiabadi, MD",
+        "gender": "Male",
+        "speciality": "Neurology",
+        "address": "3630 E. Imperial Hwy..Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(424) 346-0015"
+    },
+    {
+        "name": "Mehdi Zargarian, MD",
+        "gender": "Male",
+        "speciality": "Cardiovascular Disease",
+        "address": "8423 Florence Ave..Downey, CA 90240, USA",
+        "city": "Downey, CA",
+        "phone_no": "(562) 861-6371"
+    },
+    {
+        "name": "Anne Zepeda-Tiscareno, MD",
+        "gender": "Female",
+        "speciality": "Neonatal-Perinatal Medicine",
+        "address": "505 S. Main Street.Orange, CA 92868, USA",
+        "city": "Orange, CA",
+        "phone_no": "(714) 512-3939"
+    },
+    {
+        "name": "Manuel Zevallos, MD",
+        "gender": "Male",
+        "speciality": "Hematology",
+        "address": "3628 E. Imperial Hwy., Suite 401.Lynwood, CA 90262, USA",
+        "city": "Lynwood, CA",
+        "phone_no": "(310) 667-4000"
+    },
+    {
+        "name": "Daniel Zinar, MD",
+        "gender": "Male",
+        "speciality": "Orthopaedic Surgery",
+        "address": "2865 Atlantic Ave..Long Beach, CA 90806, USA",
+        "city": "Long Beach, CA",
+        "phone_no": "(562) 912-7437"
+    },
+    {
+        "name": "Brian Zwecker, MD",
+        "gender": "Male",
+        "speciality": "Nephrology",
+        "address": "101 E. Beverly Blvd..Montebello, CA 90640, USA",
+        "city": "Montebello, CA",
+        "phone_no": "(323) 722-7418"
+    }
+]
